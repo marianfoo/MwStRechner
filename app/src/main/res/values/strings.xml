@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MwStRechner</string>
+    <string name="result">Ergebnis</string>
+    <string name="action_settings">Settings</string>
+    <string name="hinweis">Geben Sie hier den Brutto oder Netto Betrag ein</string>
+    <string name="netto">Netto</string>
+    <string name="brutto">Brutto</string>
+</resources>
